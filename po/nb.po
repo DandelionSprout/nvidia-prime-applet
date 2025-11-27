@@ -60,7 +60,7 @@ msgstr "Avbryt bytte"
 
 #: usr/lib/nvidia-prime-applet/nvidia-prime:124
 msgid "NVIDIA Settings"
-msgstr "NVIDIA Instillinger"
+msgstr "NVIDIA-innstillinger"
 
 #: usr/lib/nvidia-prime-applet/nvidia-prime:129
 msgid "About"
